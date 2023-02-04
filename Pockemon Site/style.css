@@ -1,0 +1,152 @@
+.nav-itemhome :hover{ 
+    background-color:gray;
+color:white; 
+}
+.nav-itempokedex :hover{ 
+    background-color: red;
+color:white; 
+}
+.nav-itemvideo :hover{ 
+    background-color: rgb(255, 166, 0);
+color:white; 
+}
+.nav-itemtrading :hover{ 
+    background-color: yellow;
+color:white; 
+}
+.nav-itempokemon :hover{ 
+    background-color: green;
+color:white; 
+}
+.nav-itemplay :hover { 
+    background-color: lightseagreen;
+color:white; 
+}
+.nav-itemnews :hover{ 
+    background-color: blue ;
+color:white; 
+}
+
+
+.element20{
+    background-color: #e6bc2f;
+    padding: 10px;
+    }
+    
+    h3{
+    color: white;
+    }
+    
+    .Sec1{
+    border-radius: 5px 5px 0px 0px;
+    border: 1px solid white;
+    }
+    
+    section{
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    }
+    
+    .element16{
+    width: 300px;
+    height: auto;
+    }
+    
+    
+    .bg-color-1{
+    background-color: #ee6b2f;
+    padding: 10px;
+    }
+    
+    .element15{
+    margin-top: 10px;
+    flex-direction: row;
+    display: flex;
+    border: 1px solid white;
+    border-radius: 5px;
+    }
+    
+    .element14{
+    width: 100px;
+    height: 170px;
+    }
+    
+    .element13{
+    background-color: #4dad5b;
+    padding: 10px;
+    width: 200px;
+    }
+    
+    .headT{
+    background-color: #919191;
+    width: 300px;
+    padding: 20px;
+    
+    }
+    
+    .element12{
+    color: black;
+    }
+    .element11{
+    margin-top: 40px;
+    }
+    
+    
+    .pockemon5{
+    background-color: #30a7d7;
+    width: 300px;
+    padding: 20px;
+    
+    }
+    
+    .element10{
+    color: white;
+    }
+    .element8{
+    margin-top: 20px;
+    } 
+    
+    .element9{
+    background-color: black;
+    width: 300px;
+    padding: 10px;
+    
+    }
+    
+    .element7{
+    color: white;
+    }
+    .element6{
+    margin-top: 20px;
+    }
+
+
+
+
+
+.nav-itemhome { 
+   border-bottom: 8px solid gray;  
+}
+.nav-itempokedex{ 
+   border-bottom: 8px solid red; 
+}
+.nav-itemvideo { 
+   border-bottom: 8px solid rgb(255, 166, 0); 
+}
+.nav-itemtrading { 
+   border-bottom: 8px solid yellow;  
+}
+.nav-itempokemon { 
+   border-bottom: 8px solid green; 
+}
+.nav-itemplay { 
+   border-bottom: 8px solid lightseagreen;} 
+.nav-itemnews { 
+    border-bottom: 8px solid blue;
+     
+}
+
+
+
+
